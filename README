@@ -37,4 +37,14 @@ EXECUTION GUIDELINES:
     it is necessary to pass on of these files as a starting Q-Table (further
     directions are given in the 'Help' menu of each project inside the
     'Reinforcement_Learning' folder.
+    
+EXTRA:
+    
+    - The following links contain recordings of the stealth game simulator
+    using different techniques:
+	1 - Stealthy Path Planning: 	https://www.youtube.com/watch?v=2AFqYN_eoAI
+	2 - Q-Learning:			https://www.youtube.com/watch?v=ZaEZbhw9974
+	3 - TBGA:			https://www.youtube.com/watch?v=7ks9WgCY1FY
+	4 - RBGA:			https://www.youtube.com/watch?v=6unj0Ub0d7M
+	5 - Dark Path Algorithm: 	https://www.youtube.com/watch?v=RUBCG9ZuIVY
 	
