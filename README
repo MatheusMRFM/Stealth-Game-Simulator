@@ -1,0 +1,40 @@
+1 - INTRODUCTION
+
+    There are 4 main folders in this project:
+
+	- Dark_Path_Algorithm:	    Contains the project where it is used the
+				    Dark Path Algorithm for defining a stealthy
+				    path (MARZOUQI; JARVIS). This project only 
+				    allows the agent to move toward the 
+				    destination.
+				    
+	- Genetic_Algorithm:	    Contains the Rule Based Genetic Algorithm
+				    and the Table Based Genetic Algorithm;
+				    
+	- Reinforcement_Learning:   Contains the project with the Q-Learning,
+				    Sarsa-Lambda and Dyna-Q algorithms;
+				    
+	- Stealthy_Path_Planning:   Contains the project where it is used the
+				    navigation mesh based stealthy path planning 
+				    method. This project only allows the agent to
+				    move toward the destination.
+				
+COMPILATION GUIDELINES:
+    
+    - All projects uses a Makefile to compile. Therefore, to compile a 
+    given project, simply go to the correct folder using a terminal and
+    type 'make'. To clean the files generated through compilation, simply
+    type 'make clean'.
+    
+EXECUTION GUIDELINES:
+
+    - To view the execution guidelines and parameters, use the '-h' flag
+    when executing the desired project in order to show a 'Help' menu with
+    all possible parameters;
+    
+    - The best individual found by the RBGA and TBGA was placed inside the
+    folder 'QValues' in all Reinforcement Learning projects. To test them,
+    it is necessary to pass on of these files as a starting Q-Table (further
+    directions are given in the 'Help' menu of each project inside the
+    'Reinforcement_Learning' folder.
+	
